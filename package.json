@@ -1,0 +1,11 @@
+{
+  "name": "theme-growdev",
+  "version": "1.0.0",
+  "description": "Official Growdev Dark Theme.",
+  "license": "MIT",
+  "main": "index.js",
+  "insomnia": {
+    "name": "theme-growdev",
+    "description": "Official Growdev Dark Theme."
+  }
+}
